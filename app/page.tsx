@@ -107,7 +107,7 @@ export default function Home() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="max-w-4xl text-lg md:text-5xl font-bold leading-tight"
           >
-            Hi, I&apos;m Dolly
+            Hi, I&apos;m Gopal
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 50 }}
