@@ -98,6 +98,8 @@ export default function Home() {
           >
             <a href="https://www.instagram.com/gopalbhagwat.18/?hl=en" target="_blank" rel="noopener noreferrer"><Image src="/instagram.svg" alt="Instagram" width={64} height={64} className="rounded-lg" /></a>
             <a href="https://github.com/Bhagwat018/" target="_blank" rel="noopener noreferrer"><Image src="/github.svg" alt="GitHub" width={64} height={64} className="rounded-lg bg-white" /></a>
+            <a href="https://www.linkedin.com/in/gopal-bhagwat-a22b02247/" target="_blank" rel="noopener noreferrer"><Image src="/linkdin.svg" alt="GitHub" width={64} height={64} className="rounded-lg bg-white" /></a>
+
           </motion.div>
           <motion.h1
             initial={{ opacity: 0, y: 50 }}
